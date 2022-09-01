@@ -1,10 +1,8 @@
 #include <iostream>
-#include "classes.hpp"
-
-using namespace std;
+#include "classes.cpp"
 
 
-int main (){
+int main (int argc, char** argv){
 
 	Menu *m1 = new Menu();
 
